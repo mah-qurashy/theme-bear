@@ -90,8 +90,8 @@
     // titleBar
     "titleBar.activeBackground": "#1f2023",
     "titleBar.activeForeground": "#bcb28d",
-    "titleBar.inactiveBackground": "#bcb28d",
-    "titleBar.inactiveForeground": "#707C74",
+    "titleBar.inactiveBackground": "#1f2023",
+    "titleBar.inactiveForeground": "#bcb28d66",
 
     // list
     "list.hoverBackground": "#40627C66",
